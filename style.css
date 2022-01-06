@@ -1,0 +1,162 @@
+body{
+    border: 0;
+    padding: 0;
+    
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+.text-color{
+    color: coral;
+}
+.welcome{
+    border-left:5px solid rgb(224, 214, 154);
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.first-section{
+    display: flex;
+    padding: 5%;
+    font-family: 'Luxurious Roman', cursive;
+    
+}
+.first-part img{
+    width: 90%;
+    height: 80%;
+    padding-left: 10%;
+}
+.first-part{
+    width: 50%;
+}
+.button{
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg,salmon,rgb(231, 223, 223),rgb(189, 58, 44));
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    margin: 15px;
+}
+.my-mission{
+    text-align: center;
+    font-size: 40px;
+}
+.mission{
+    width: 300px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(108, 202, 207), rgb(173, 194, 182));
+    box-shadow:10px 10px 40px rgb(108, 202, 207);
+    
+}
+
+.mission img{
+    width: 60%;
+}
+.vision{
+    width: 300px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(142, 209, 162), rgb(230, 202, 202));
+    box-shadow:10px 10px 40px rgb(142, 209, 162);
+}
+.vision img{
+    width: 60%;
+}
+.goals{
+    width: 300px;
+    border-radius: 10px;
+    background-image: linear-gradient(salmon, rgb(230, 202, 202));
+    box-shadow:10px 10px 40px salmon;
+    
+}
+.goals img{
+    width: 60%;
+}
+.ambitions{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.second-section{
+    margin-top: -10%;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+.third-section{
+    display: flex;
+    margin-top: 60px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.develop{
+    width: 50%;
+    padding-right: 20px;
+    
+   
+}
+.develop img{
+    width: 70%;
+    padding-left: 10%;
+}
+
+
+.title{
+    font-size: 30px;
+}
+.banner{
+    background-image: url(./images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.forth-section{
+    display: flex;
+    margin-top: 60px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.global{
+    width: 50%;
+    padding-left: 40px;
+}
+.global img{
+    width: 80%;
+    padding-right: 10%;
+}
+.web{
+   display: flex;
+}
+.build{
+    text-align: center;
+    font-size: 50px;
+}
+.apps{
+    width: 50%;
+    padding-right: 20%;
+}
+.apps img{
+    width: 80%;
+    padding-left: 40%;
+}
+.stay-connect{
+    font-size: 40px;
+   
+}
+.fifth-section{
+   margin-top: 50px;
+   font-family: 'Moon Dance', cursive
+}
+footer{
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+.bottom{
+    text-align: center;
+    font-weight: 400;
+}
+
